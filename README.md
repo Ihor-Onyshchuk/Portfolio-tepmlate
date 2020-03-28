@@ -7,4 +7,4 @@ You can look at it [here]( https://ihor-onyshchuk.github.io/Portfolio-tepmlate.g
 ![cover for app](https://github.com/Ihor-Onyshchuk/Portfolio-tepmlate.github.io/blob/master/preview-1.png "Cover of simple layout")
 
 
-![cover for app](https://github.com/Ihor-Onyshchuk/Portfolio-tepmlate.github.io/blob/master/preview-2.png "Cover of simple layout")
+
